@@ -4,6 +4,8 @@ An AI-powered cybersecurity threat analysis platform built for **Cyberthon 2026*
 
 **Mersad (مرصاد)** is designed specifically to protect everyday citizens—especially non-technical users and older adults—from digital scams, phishing attempts, and social engineering attacks. By translating complex threat intelligence into clear, plain-language Arabic advice, Mersad makes online security accessible to everyone.
 
+![Mersad Demo](./assets/demo.gif)
+
 ---
 
 ## 🌟 Key Features
